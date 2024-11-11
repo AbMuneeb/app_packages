@@ -1,0 +1,80 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "opannapo",
+      "name": "opannapo",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/18698574?v=4",
+      "profile": "https://github.com/opannapo",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Taormina",
+      "name": "Anthony Taormina",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1090627?v=4",
+      "profile": "https://taormina.io",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "kekland",
+      "name": "Erzhan",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/14993994?v=4",
+      "profile": "http://kekland.github.io",
+      "contributions": [
+        "test"
+      ]
+    },
+    {
+      "login": "BIGDADz",
+      "name": "Puttipong Wongrak",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/23566790?v=4",
+      "profile": "https://bigdadz-developer.web.app/",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "AadumKhor",
+      "name": "Aayush Malhotra",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/37381075?v=4",
+      "profile": "https://github.com/AadumKhor",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "benja8151",
+      "name": "benja8151",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51935943?v=4",
+      "profile": "https://github.com/benja8151",
+      "contributions": [
+        "platform",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "RemcoSchrijver",
+      "name": "Remco Schrijver",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45097990?v=4",
+      "profile": "https://github.com/RemcoSchrijver",
+      "contributions": [
+        "platform",
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Liquid-Pull-To-Refresh",
+  "projectOwner": "aagarwal1012",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
